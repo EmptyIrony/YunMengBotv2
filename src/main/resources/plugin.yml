@@ -1,0 +1,6 @@
+name: "YunMengBot"
+author: "EmptyIrony"
+version: "1.0"
+main: "me.emptyirony.bot"
+info: ""
+depends: []
